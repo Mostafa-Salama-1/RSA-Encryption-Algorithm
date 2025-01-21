@@ -9,7 +9,7 @@
     <h1>RSA Encryption Algorithm on AT89s52 Microcontroller</h1>
 
     <h2>Project Overview</h2>
-    <p>The primary goal of this project is to implement the RSA public-key cryptographic algorithm on the 8051 Microcontroller Unit (MCU). RSA is widely used for secure data communication, leveraging its ability to encrypt and decrypt messages using public and private keys. This project demonstrates the feasibility of running RSA operations, including key generation, encryption, and decryption, on a constrained embedded system.</p>
+    <p>The primary goal of this project is to implement the RSA public-key cryptographic algorithm on the 8051 Microcontroller Unit (MCU). RSA is widely used for secure data communication, leveraging its ability to encrypt and decrypt messages using public and private keys. This project demonstrates the feasibility of running RSA operations, including key generation, encryption, and decryption, on a constrained embedded system. <strong>Note: The current implementation has issues and does not work as intended.</strong></p>
 
     <h2>Features</h2>
     <ul>
@@ -94,5 +94,8 @@
         <li><strong>Input Validation:</strong> Ensured robust handling of user input for key generation and operations.</li>
         <li><strong>Termite Integration:</strong> Established smooth UART communication between the MCU and the PC application.</li>
     </ul>
+
+    <h2>GitHub Repository</h2>
+    <p>You can find the project code and further documentation on my GitHub account: <a href="https://github.com/Mostafa-Salama-1">Mostafa-Salama-1</a>.</p>
 </body>
 </html>
